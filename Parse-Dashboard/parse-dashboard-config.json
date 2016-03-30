@@ -1,8 +1,10 @@
 {
   "apps": [
+    {
       "serverURL": "http://thepolygonparse.azurewebsites.net/parse",
       "appId": "tpa.thePolygon.app",
       "masterKey": "Kishi1234",
       "appName": "ThePolygonApp"
+    }
   ]
 }
