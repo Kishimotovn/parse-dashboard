@@ -6,5 +6,11 @@
       "masterKey": "Kishi1234",
       "appName": "ThePolygonApp"
     }
+  ],
+  "users": [
+    {
+      "user":"kishimotovn",
+      "pass":"Kishi1234"
+    }
   ]
 }
